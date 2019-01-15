@@ -17,11 +17,22 @@ int main(){
         printf("xuanzegongneng\n");
 
         int code;
-        scanf("%c",&code);
-        scanf("%c",&code);
+        scanf("%d",&code);
 
         if(code == 1){
+                       printf("tianjiaminganzifu\n");
+            char m;
+            scanf("%c",&m);
+            scanf("%c",&m);
 
+            arr[index]=m;
+            index++;
+
+            printf("tianjiachenggong\n");
+            char x;
+            scanf("%c",&x);
+            scanf("%c",&x);
+ 
         }
         if(code == 2){
             
