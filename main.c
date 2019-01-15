@@ -94,13 +94,14 @@ int main(){
 
             printf("\n");
 
-            printf("替换完成，点击回车继续\n");
+            printf("tihuanwancheng\n");
             char x;
             scanf("%c", &x);
             scanf("%c", &x);
         }
         if(code == 5){
-            
+            printf("tuichu\n");
+            break;
         }
     }
 
